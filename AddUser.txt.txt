@@ -1,4 +1,9 @@
+
 ' *****************************************************************************
+
+'' FILENAME: adduser
+
+'' *****************************************************************************
 
 '' ABOUT THIS FILE
 
@@ -12,8 +17,35 @@
 '' Date/Initials Comments
 
 '' --------- -------------------------------
-'' 
-rw Created for LoanApp 2.1rw Created for LoanApp 2.1
+'' rw Created for LoanApp 2.1
+
+''*****************************************
+
+''SCRIPT
+AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+
+AddUser "rnmith", "password", "Nancy", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+
+ 
+
+Let's modify (changes shown in bold) it to: 
+ 
+
+'' *****************************************************************************
+
+'' ABOUT THIS FILE
+
+'' AUTHOR IDENTITY:
+'' Initials Name/Company
+
+'' -------- -----------------------------------------
+
+'' rw Rick Wagonner ABC INC
+'' REVISION HISTORY:
+'' Date/Initials Comments
+
+'' --------- -------------------------------
+'' rw Created for LoanApp 2.1
 
 ''*****************************************
 
